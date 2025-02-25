@@ -1,0 +1,77 @@
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #eef5ff;
+  font-family: Work Sans, sans-serif;
+}
+
+
+.container {
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 72px;
+  margin: 0;
+  color: #191919;
+}
+
+
+p {
+  font-size: 1.1rem;
+  color: #666666;
+}
+
+
+.replay-button {
+  background-color: #0ebac5;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.replay-button:hover {
+  background-color: #0c9ea7; /* Darker blue on hover */
+}
